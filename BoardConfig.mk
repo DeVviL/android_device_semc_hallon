@@ -32,5 +32,5 @@ TARGET_OTA_ASSERT_DEVICE := MT15i,MT15a,hallon
 BOARD_HARDWARE_CLASS += device/semc/hallon/cmhw
 
 # Fstab for TWRP
-TARGET_RECOVERY_FSTAB := device/semc/hallon/rootdir/twrp.fstab
+#TARGET_RECOVERY_FSTAB := device/semc/hallon/rootdir/twrp.fstab
 
